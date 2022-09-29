@@ -1,6 +1,7 @@
 # Hi , I'm Victor - aka [Vic-coded] 👋
 
 ## I'm a Developer, and a Graphics Designer
+[![@viccoded's Holopin board](https://holopin.io/api/user/board?user=viccoded)](https://holopin.io/@viccoded)
 
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate with other developers
