@@ -1,11 +1,11 @@
 # Hi , I'm Victor - aka [Vic-coded] 👋
 
-## I'm a Developer, and a Graphics Designer
+## I'm a Developer, and a Designer
 [![@viccoded's Holopin board](https://holopin.io/api/user/board?user=viccoded)](https://holopin.io/@viccoded)
 
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about web3, become a full stack JS Developer
+- 🌱 I’m a MERN Stack developer
+- 👯 I’m looking to collaborate with other developers and contribute more to open source projects
+- 🥅 2023 Goals: Learn more about web3, commit to community building and development
 - ⚡ Fun fact: I love to play drums
 
 ### Connect with me:
