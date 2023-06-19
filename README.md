@@ -3,9 +3,9 @@
 ## I'm a Developer, and a Graphics Designer
 [![@viccoded's Holopin board](https://holopin.io/api/user/board?user=viccoded)](https://holopin.io/@viccoded)
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently a MERN Stack developer
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about web3, become a full stack JS Developer
+- 🥅 2023 Goals: Learn more about web3, commit more into community building and development
 - ⚡ Fun fact: I love to play drums
 
 ### Connect with me:
